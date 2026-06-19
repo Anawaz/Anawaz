@@ -84,18 +84,6 @@ Clean Architecture       █████████████████░�
 
 ---
 
-## 📊 GitHub Overview
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anawaz&show_icons=true&theme=default&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anawaz&layout=compact&hide_border=true)
-
-</div>
-
----
-
 ## 🌱 Currently Improving
 
 - Modern .NET application architecture
